@@ -20,7 +20,7 @@ In this notebook, I:
 
 ## 📂 Dataset Description
 
-- **Training Dataset:** `mnist_train.csv`
+- **Training Dataset:** `mnist_train.csv` link = https://www.kaggle.com/datasets/oddrationale/mnist-in-csv
 - **External Test Dataset:** `mnist_test.csv`
 - **Target Column:** `label`
 - **Features:** 784 pixel values (28×28 image flattened)
